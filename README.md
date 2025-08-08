@@ -90,13 +90,13 @@ visualizations will be displayed
 ### 4.Usage Notes
 #### The uploaded CSV file must contain the following columns:
 
--Case ID
+- Case ID
 
--Activity Name
+- Activity Name
 
--Start Time
+- Start Time
 
--End Time
+- End Time
 
 ##### The application converts date information in the uploaded file to datetime format and calculates Duration.
 
