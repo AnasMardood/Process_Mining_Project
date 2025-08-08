@@ -105,7 +105,7 @@ visualizations will be displayed
 ##### Process sequencing is performed for transition analysis.
 
 ## Developer
-#### Ad Soyad : Anas Al-Mardoud
+#### Full Name : Anas Al-Mardoud
 #### Computer Engineer 
 #### 📧 Email: enesmerdud26@gmail.com
 #### 📘 GitHub: [https://github.com/AnasMardood](https://github.com/AnasMardood)
